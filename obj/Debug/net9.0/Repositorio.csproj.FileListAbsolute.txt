@@ -1,0 +1,14 @@
+C:\Repositorio\bin\Debug\net9.0\Repositorio.exe
+C:\Repositorio\bin\Debug\net9.0\Repositorio.deps.json
+C:\Repositorio\bin\Debug\net9.0\Repositorio.runtimeconfig.json
+C:\Repositorio\bin\Debug\net9.0\Repositorio.dll
+C:\Repositorio\bin\Debug\net9.0\Repositorio.pdb
+C:\Repositorio\obj\Debug\net9.0\Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositorio\obj\Debug\net9.0\Repositorio.AssemblyInfoInputs.cache
+C:\Repositorio\obj\Debug\net9.0\Repositorio.AssemblyInfo.cs
+C:\Repositorio\obj\Debug\net9.0\Repositorio.csproj.CoreCompileInputs.cache
+C:\Repositorio\obj\Debug\net9.0\Repositorio.dll
+C:\Repositorio\obj\Debug\net9.0\refint\Repositorio.dll
+C:\Repositorio\obj\Debug\net9.0\Repositorio.pdb
+C:\Repositorio\obj\Debug\net9.0\Repositorio.genruntimeconfig.cache
+C:\Repositorio\obj\Debug\net9.0\ref\Repositorio.dll
