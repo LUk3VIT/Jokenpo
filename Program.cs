@@ -20,18 +20,18 @@ while (opcao == "inicio")
 
     if (jogadorUm == jogadorDois)
     {
-        Console.WriteLine("Empate!");
+        Console.WriteLine("\nEmpate!\n\n");
     } 
     else if ((jogadorUm == "Pedra" && jogadorDois == "Tesoura") || (jogadorUm == "Papel" && jogadorDois == "Pedra") || (jogadorUm == "Tesoura" && jogadorDois == "Papel"))
     {
-        jogadorUmPonto =+ 1;
-        Console.WriteLine("Jogador 1 ganhou um ponto!");
+        jogadorUmPonto += 1;
+        Console.WriteLine("\nJogador 1 ganhou um ponto! \n\n");
     } else {
-        jogadorDoisPonto =+ 1;
-        Console.WriteLine("Jogador 2 ganhou um ponto! \n\n");
+        jogadorDoisPonto += 1;
+        Console.WriteLine("\nJogador 2 ganhou um ponto! \n\n");
     }
-
-    Console.WriteLine("Placar\n\n");
+    
+    Console.WriteLine("Placar\n");
     Console.WriteLine($"Pontos do jogador Um: {jogadorUmPonto}\n");
     Console.WriteLine($"Pontos do jogodor Dois: {jogadorDoisPonto}\n\n");
 
@@ -41,6 +41,7 @@ while (opcao == "inicio")
     if (opcao == "2"){
         opcao = "Fim";
     } else {
+        Console.Clear();
         opcao = "inicio";
     }
 }
